@@ -177,7 +177,7 @@ threadpoolctl==3.2.0
     # via scikit-learn
 tifffile==2023.9.26
     # via scikit-image
-torch==2.0.1+cu117
+#torch==2.0.1+cu117
     # via
     #   -r requirements.in
     #   torchio
@@ -185,7 +185,7 @@ torch==2.0.1+cu117
     #   triton
 torchio==0.18.83
     # via -r requirements.in
-torchvision==0.15.2+cu117
+#torchvision==0.15.2+cu117
     # via -r requirements.in
 tqdm==4.65.0
     # via
